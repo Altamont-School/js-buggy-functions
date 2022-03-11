@@ -47,4 +47,4 @@ isFlanders(studentTwo);
 // functions above:
 // SIT DOWN, BART SIMPSON!
 // [A random compliment], Lisa Simpson!
-// Passing in studentOne or studentTwo returns: Flanders: true
+// Passing in studentOne or studentTwo for the `isAFlanders()` returns: Flanders: true
