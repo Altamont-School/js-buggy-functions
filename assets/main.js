@@ -45,6 +45,6 @@ isFlanders(studentTwo);
 
 // Here's the expected output of a properly functioning program, using the
 // functions above:
-// SIT DOWN BART SIMPSON!
+// SIT DOWN, BART SIMPSON!
 // [A random compliment], Lisa Simpson!
 // Passing in studentOne or studentTwo returns: Flanders: true
